@@ -1,7 +1,7 @@
-<h2> ▶️ Jogo da Velha # </h2>
+<h1> ▶ Jogo da Velha </h1>
 
 
-<h2> :dart: Tecnologias utilizadas </h2>
+<h3> :dart: Tecnologias utilizadas </h3>
     <ul>
         <li> HTML </li>
         <li> CSS </li>
@@ -9,7 +9,8 @@
     </ul>
     
 <section class="Site">
+
   <h3> :clapper: Jogo </h3>
-  <p> Experimente o jogo por <a href="https://gama-chefao-website.herokuapp.com/"> aqui </a> </p>
+  <p> Experimente o jogo por <a href="https://larysslopes.github.io/jogo-da-velha/"> aqui </a> </p>
 
 </section>
